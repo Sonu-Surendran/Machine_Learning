@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.data/
+.course2/data
+.course2/churn deploy/_pycache_/
+.course2/churn deploy/data/
+.course2/churn deploy/.ipynb_checkpoints/
