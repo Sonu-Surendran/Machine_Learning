@@ -1,7 +1,4 @@
 **/_pycache_/
 
-.ipynb_checkpoints/
-.data/
-.course2/data
-.course2/churn deploy/data/
-.course2/churn deploy/.ipynb_checkpoints/
+**/ipynb_checkpoints/
+**/data/
