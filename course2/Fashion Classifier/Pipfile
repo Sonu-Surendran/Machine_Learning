@@ -10,6 +10,8 @@ pandas = "*"
 scikit-learn = "*"
 fastapi = "*"
 pillow = "*"
+uvicorn = "*"
+python-multipart = "*"
 
 [dev-packages]
 ipykernel = "*"
